@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikolay\\Desktop\\Control_work\\Control_work.csproj": {}
+    "C:\\Users\\Nikolay\\Desktop\\Control_work\\Task\\Control_work.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikolay\\Desktop\\Control_work\\Control_work.csproj": {
+    "C:\\Users\\Nikolay\\Desktop\\Control_work\\Task\\Control_work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikolay\\Desktop\\Control_work\\Control_work.csproj",
+        "projectUniqueName": "C:\\Users\\Nikolay\\Desktop\\Control_work\\Task\\Control_work.csproj",
         "projectName": "Control_work",
-        "projectPath": "C:\\Users\\Nikolay\\Desktop\\Control_work\\Control_work.csproj",
+        "projectPath": "C:\\Users\\Nikolay\\Desktop\\Control_work\\Task\\Control_work.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikolay\\Desktop\\Control_work\\obj\\",
+        "outputPath": "C:\\Users\\Nikolay\\Desktop\\Control_work\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config"
