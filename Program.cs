@@ -61,9 +61,10 @@ void PrintArray(string[] arr)
 
 string[] arrStringDefault = GetArrayString("Введите колличество слов",
                                            "Введите ваши слова через пробел");
+string[] newArrayString = CreateNewArrayString(arrStringDefault);
+
 Console.Write("Исходный массив: ");
 PrintArray(arrStringDefault);
 
-string[] newArrayString = CreateNewArrayString(arrStringDefault);
 Console.Write("Итоговый массив: ");
 PrintArray(newArrayString);
